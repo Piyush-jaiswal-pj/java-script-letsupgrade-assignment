@@ -9,3 +9,7 @@
     font-weight: bold;
     color: black;
 }
+.color {
+    color: blue;
+    background-color: darkgray;
+}
